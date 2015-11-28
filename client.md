@@ -1,0 +1,1 @@
+# Model struktury danych połączenia Serwer -> Klient
