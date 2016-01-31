@@ -20,6 +20,7 @@ grunt.loadNpmTasks('grunt-contrib-concat');
 ```
 
 ['test'](https://bitbucket.org/ceiger89/sinis/src/b94757277850bbd2c359160b3494a868bc15747b/test.md)
+[test 2](test.md)
 
 
 ## Concat task
